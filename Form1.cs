@@ -11,7 +11,8 @@ using System.Windows.Forms;
 /*Douglas Little
  * MS539 Gui App
  * I estimate this will take me about an hour to finish
- * It took less time to comlete because most of the controls aren't functional.
+ * It took less time to comlete because most of the controls aren't functional. 
+ * 
  */
 
 namespace MS539_GUI_App
